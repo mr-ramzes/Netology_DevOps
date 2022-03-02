@@ -27,3 +27,4 @@ terraform.rc
 *файлы .terraformrc и terraform.rc в любой директории репозитория*
 
 new_line
+one_more_line
